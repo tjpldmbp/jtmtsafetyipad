@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/tjpldmbp/jtmtsafety/raw/master/jtmtsafety.ipa</string>
+					<string>https://github.com/tjpldmbp/jtmtsafetyipad/blob/master/jtmtsafety.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitee.com/tjpldmbp/jtmtsafety/raw/master/jtmtsafety.57x57.png</string>
+					<string>https://github.com/tjpldmbp/jtmtsafetyipad/blob/master/jtmtsafety.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/tjpldmbp/jtmtsafety/raw/master/jtmtsafety.512x512.jpg</string>
+					<string>https://github.com/tjpldmbp/jtmtsafetyipad/blob/master/jtmtsafety.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
